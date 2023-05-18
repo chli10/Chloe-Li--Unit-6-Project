@@ -1,0 +1,60 @@
+body {
+    background-color: #253f4b;
+    text-align: center;
+    color: white;
+    padding: 100px;
+    border: 10px groove #365563;
+}
+
+
+
+input {
+    width: 75%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    text-align: center;
+
+}
+
+button {
+    border: 5px groove #779eb2;
+    border-radius: 15px;
+    background-color: #c8dfea;
+   
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+   
+}
+img{
+    border: 5px groove pink;
+    width:200px;
+    height:300px;
+}
+
+
+.pop-icon {
+    width: 200px;
+    border:none;
+}
+
+.dramas{
+    display: none;
+}
+
+.comedies{
+    display: none;
+}
+
+.thrillers{
+	display: none;
+}
+
+.suggestBox{
+	display: none; 
+}
